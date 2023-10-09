@@ -3,12 +3,12 @@ public class TestTree
 	public static void main(String[]args) {
 		BSTOfIntegers t = new BSTOfIntegers(); // calls the BSTOfIntegers class
 
-        t.insert(8);
-        t.insert(5);
-        t.insert(9);
-        t.insert(3);
-        t.insert(7);
-        t.insert(11);
+        	t.insert(8);
+        	t.insert(5);
+        	t.insert(9);
+        	t.insert(3);
+        	t.insert(7);
+        	t.insert(11);
 		
 		// searching to see whether element present in the tree
 		System.out.println("\nIs the element present in the tree? " + t.search(8));
