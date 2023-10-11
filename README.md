@@ -1,2 +1,2 @@
 # Java
-This repository contains previous Java code for CS
+This repository contains previous codes for CS
